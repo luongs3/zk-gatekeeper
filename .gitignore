@@ -1,0 +1,8 @@
+node_modules/
+build/pot_*.ptau
+build/*.wtns
+build/gatekeeper_0.zkey
+CircomStellar/
+contract/target/
+target/
+.DS_Store
